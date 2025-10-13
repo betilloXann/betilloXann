@@ -16,7 +16,7 @@ Soy un desarrollador junior apasionado por el desarrollo web y la programación.
 - Python
 - PHP
 
-🚀 Busco colaborar en proyectos open-source y aprender nuevas tecnologías que me ayuden a crecer como ingeniero de software.
+🚀 Busco colaborar en proyectos open-source y aprender nuevas tecnologías que me ayuden a crecer como ingeniero en informática.
 
 ### 📫 Cómo contactarme:
 - Correo electrónico: [alberto10pumas@gmail.com](mailto:alberto10puma@gmail.com)
