@@ -22,8 +22,8 @@ Me apasiona construir soluciones eficientes y contribuir al ecosistema de códig
 He tenido el privilegio de aportar a proyectos globales, mejorando herramientas que utilizan miles de personas:
 
 * **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF):** Colaboración en la suite de PDF más completa de GitHub (TypeScript).
-* **[Jellyfin Roku](https://github.com/jellyfin/jellyfin-roku):** Implementación de lógica para sincronización de subtitulos (BrighterScript).
-* **[vhost-device](https://github.com/rust-vmm/vhost-device):** Documentación para backends de virtualización de bajo nivel (Rust).
+* **[Jellyfin Roku](https://github.com/jellyfin/jellyfin-roku/releases/tag/3.1.2):** Implementación de lógica para sincronización de subtitulos (BrighterScript).
+* **[vhost-device](https://github.com/rust-vmm/vhost-device/pull/939):** Documentación para backends de virtualización de bajo nivel (Rust).
 
 ---
 
