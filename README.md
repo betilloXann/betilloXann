@@ -29,8 +29,8 @@ He tenido el privilegio de aportar a proyectos globales, mejorando herramientas 
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Resumen de Alberto](https://github-readme-stats.vercel.app/api?username=betilloXann&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=betilloXann&layout=compact&theme=radical)
+![Resumen de Alberto](https://github-stats-extended.vercel.app/api?username=betilloXann&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betilloXann&theme=radical)
 
 ---
 
